@@ -1,28 +1,26 @@
 # Sistema de Gestão Documental
 
-Sistema Web desenvolvido em Java utilizando JSP e Servlets para gerenciamento de documentos.
+Sistema Web desenvolvido em Java utilizando JSP para gestão de documentos, categorias, subcategorias, autores e manuais.
 
 ## Funcionalidades
-- Cadastro de documentos
-- Listagem e pesquisa
-- Atualização e exclusão de registros
-- Organização documental
-- Interface web com JSP
+- Cadastro de categorias e subcategorias
+- Cadastro de autores
+- Cadastro de manuais
+- Pesquisa de registros
+- Interface Web com JSP
 
 ## Tecnologias utilizadas
 - Java
 - JSP
-- Servlets
-- JDBC
-- HTML, CSS
+- HTML
+- CSS
 - Apache Tomcat
 
-## Como executar o projeto
-1. Importar o projeto em uma IDE (Eclipse ou NetBeans)
-2. Configurar o Apache Tomcat
-3. Ajustar as configurações de banco de dados (se aplicável)
-4. Executar o projeto no servidor
-5. Acessar pelo navegador
+## Como executar
+1. Importar o projeto no Eclipse ou NetBeans
+2. Configurar servidor Apache Tomcat
+3. Executar o projeto
+4. Acessar pelo navegador
 
 ## Objetivo
-Projeto desenvolvido para fins acadêmicos e de portfólio.
+Projeto desenvolvido para fins acadêmicos e portfólio.
